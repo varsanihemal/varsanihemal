@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, PostgreSQL**
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **Html, Css, JavaScript, Python**
 
 - 📫 How to reach me **hemalvarsani123@gmail.com**
 
