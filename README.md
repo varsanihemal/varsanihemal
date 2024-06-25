@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/varsani_hemal" target="blank"><img src="https://img.shields.io/twitter/follow/varsani_hemal?logo=twitter&style=for-the-badge" alt="varsani_hemal" /></a> </p>
 
 
-- 🌱 I’m currently learning **React, Php, MySql**
+- 🌱 I’m currently learning **React, Ruby, MySql**
 
-- 💬 Ask me about **Html, Css, JavaScript, Python, Java, PostgreSQL**
+- 💬 Ask me about **Html, Css, JavaScript, Python, PHP, Java, PostgreSQL**
 
 - 📫 How to reach me **hemalvarsani123@gmail.com**
 
