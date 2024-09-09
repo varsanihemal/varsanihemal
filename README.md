@@ -12,7 +12,7 @@
 - 💬 Ask me about **Html, Css, JavaScript, Python, PHP, Java, PostgreSQL**
 
 - 📫 How to reach me **hemalvarsani123@gmail.com**
-- 📱 Reach me via phone call to ** +1 (431) 668-0244 **
+- 📱 Reach me via phone call to **+1 (431) 668-0244**
 
 - ⚡ Fun fact **I might seem quiet, but am not 😂 I usually talk a lot and i like to meet new people so that i can collaborate with them so that we can build ourselves by learning new skills.**
 - 🎯 **I also have an interest in Game Development.**
