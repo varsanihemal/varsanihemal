@@ -12,6 +12,7 @@
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, Python, PHP, Java, PostgreSQL, React, Ruby on Rails, MySql, Supabase, SQLite Html, Css, Tailwind CSS **
 
 - 📫 How to reach me **hemalvarsani123@gmail.com**
+- 🔍 Reach me via Linkedin **https://www.linkedin.com/in/hemal-varsani/**
 - 📱 Reach me via phone call to **+1 (431) 668-0244**
 
 - 🎯 **I also have an interest in Game Development.**
@@ -23,9 +24,6 @@
   </a>
   <a href="https://instagram.com/varsanihemal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varsanihemal" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hemal-varsani/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hemal-varsani" height="30" width="40" />
   </a>
 </p>
 
