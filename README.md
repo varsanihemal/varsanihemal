@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/varsani_hemal" target="blank"><img src="https://img.shields.io/twitter/follow/varsani_hemal?logo=twitter&style=for-the-badge" alt="varsani_hemal" /></a> </p>
 
 
-- 🌱 I’m currently learning **React, Ruby, MySql**
+- 🌱 I’m currently learning **Prisma, FastApi, React Native**
 
-- 💬 Ask me about **Html, Css, JavaScript, Python, PHP, Java, PostgreSQL**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, Python, PHP, Java, PostgreSQL, React, Ruby on Rails, MySql, Supabase, SQLite Html, Css, Tailwind CSS **
 
 - 📫 How to reach me **hemalvarsani123@gmail.com**
 - 📱 Reach me via phone call to **+1 (431) 668-0244**
