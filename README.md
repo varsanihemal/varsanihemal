@@ -7,31 +7,9 @@
 <p align="left"> <a href="https://twitter.com/varsani_hemal" target="blank"><img src="https://img.shields.io/twitter/follow/varsani_hemal?logo=twitter&style=for-the-badge" alt="varsani_hemal" /></a> </p>
 
 
-## ⚒️ My Tech Stack  
+- 🌱 I’m currently learning **Prisma, FastApi, React Native**
 
-### **Frontend**  
-- HTML5, CSS3, Bootstrap  
-- React.js, Redux, Tailwind CSS  
-- JavaScript, TypeScript, React Native  
-
-### **Backend**  
-- Node.js, Python, FastAPI  
-- PHP, Ruby on Rails, Prisma  
-
-### **Databases**  
-- PostgreSQL, MySQL, SQLite, Supabase  
-
-### **Tools & Technologies**  
-- Git & GitHub, Docker, AWS Lambda  
-- Android Studio, Visual Studio Code  
-- Expo, Netlify, Vercel  
-- Figma, Responsive Design  
-
-### **Soft Skills**  
-- Collaboration, Communication  
-- Problem-Solving, Attention to Detail  
-- Adaptability, Time Management  
-
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, Python, PHP, Java, PostgreSQL, React, Ruby on Rails, MySql, Supabase, SQLite Html, Css, Tailwind CSS **
 
 - 📫 How to reach me **hemalvarsani123@gmail.com**
 - 🔍 Reach me via Linkedin **https://www.linkedin.com/in/hemal-varsani/**
