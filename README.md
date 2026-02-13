@@ -21,7 +21,6 @@ I'm a passionate **Full Stack Developer** from Winnipeg, MB with a focus on buil
 
 - 🎓 **Honours Graduate** in Full Stack Web Development (GPA: 3.80)
 - 💼 Former **Full Stack Developer Intern** at Eleven59
-- 🔨 Currently building with **React Native, FastAPI, TypeScript**
 - 🎮 Exploring **Game Development** in my free time
 - 🌱 Always learning and experimenting with new technologies
 - 📍 Based in Winnipeg, Manitoba | **Open to relocation**
