@@ -156,7 +156,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 🐦 **Twitter:** [@varsani_hemal](https://twitter.com/varsani_hemal)
 - 📧 **Email:** hemalvarsani123@gmail.com
 - 📱 **Phone:** +1 (431) 668-0244
-- 🌐 **Portfolio:** hemal-2026.vercel.app(#)
+- 🌐 **Portfolio:** [hemal-2026.vercel.app](https://hemal-2026.vercel.app)
 
 ---
 
